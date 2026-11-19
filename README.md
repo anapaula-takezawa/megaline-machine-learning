@@ -84,14 +84,14 @@ Although overall accuracy exceeded the project target, the lower recall for Ultr
 
 ## Repository Structure
 
+```text
 megaline-machine-learning/
-│
 ├── data/
 │   ├── README.md
 │   └── users_behavior.csv
-│
 ├── megaline_mobile_plan_recommendation_ml.ipynb
 └── README.md
+```
 
 ## How to Run
 
