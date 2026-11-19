@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="megaline_machine_learning_cover_soft_1280x640.jpg"
+       alt="Megaline — Mobile Plan Recommendation"
+       width="100%">
+</p>
+
 # Megaline — Mobile Plan Recommendation
 
 **Author:** Ana Paula Takezawa   
